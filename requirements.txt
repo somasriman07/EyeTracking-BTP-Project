@@ -1,0 +1,18 @@
+opencv-python
+mediapipe==0.10.14
+pyautogui
+numpy
+scikit-learn
+joblib
+pyttsx3
+
+
+# Launch the Assistive System:
+
+# bash
+# python assistive_eye_system.py
+
+# Controls during runtime:
+
+# K : Toggle between Mouse Mode and Keyboard Mode.
+# Q : Exit the application.
